@@ -186,7 +186,16 @@
             "us-west-2": {
                 "AMI": "ami-4836a428",
                 "AMZNLINUXHVM": "ami-d874e0a0"
-            }
+            },
+            "eu-west-1": {
+                "AMI": "ami-01ccc867",
+                "AMZNLINUXHVM": "ami-d834aba1"
+            },
+            "eu-central-1": {
+                "AMI": "ami-b968bad6",
+                "AMZNLINUXHVM": "ami-5652ce39"
+            }		              
+           }
         }
     },
     "Resources": {
